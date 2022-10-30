@@ -1,8 +1,8 @@
 ﻿# es6-intro
-Basic JavaScript
-1.Variable
-2.Condition
-3.Array
-4.Loop->While,for
-5.function 
-6.Object
+Basic JavaScript <br/>
+1.Variable <br/>
+2.Condition <br/>
+3.Array <br/>
+4.Loop->While,for <br/>
+5.function  <br/>
+6.Object <br/>
